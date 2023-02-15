@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Activate UMBRA protocol",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.rulers": [
+        {
+            "column": 100
+        }
+    ],
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "editor.tabSize": 2,
+    "editor.acceptSuggestionOnEnter": "off",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "go.toolsManagement.autoUpdate": true
+}
